@@ -1,6 +1,4 @@
-- Python, HTML/CSS
-- MicroPython and CircuitPython for the RaspberryPi Pico
-- Your local child prodigy
+Check out my hardware projects!
 
   
 
